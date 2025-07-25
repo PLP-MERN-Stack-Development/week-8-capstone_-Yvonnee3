@@ -72,7 +72,7 @@ cd employeeBenefits
 ### 2. Backend Setup
 
 ```bash
-cd backend
+cd server
 npm install
 ```
 
@@ -97,7 +97,7 @@ node server.js
 ### 3. Frontend Setup
 
 ```bash
-cd ../frontend
+cd ../client
 npm install
 ```
 
@@ -158,19 +158,3 @@ The app will be available at [http://localhost:5173](http://localhost:5173) (or 
 - **Backend:** Node.js, Express, MongoDB, Mongoose, JWT, GridFS, Multer
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## Contact
-
-For questions or support, please contact the project maintainer.
