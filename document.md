@@ -117,13 +117,20 @@ USER GUIDE
 
 Creating a User Account
 
-    1.	Navigate to the Registration Page:
 
-        o	Go to the /register URL
+  Navigate to the Registration Page:
+    <img width="1281" height="720" alt="image" src="https://github.com/user-attachments/assets/b98e66d0-7c06-4c12-8e2b-7de77e5648e6" />
 
-    2.	Fill in the Registration Form:
-        o	Enter all relevant fields as required
-        o	Click the Register button.
+
+  Go to the /register URL
+  <img width="1281" height="720" alt="image" src="https://github.com/user-attachments/assets/aa2152a0-d58c-4858-8336-e10c36937e85" />
+
+
+  Fill in the Registration Form:
+  <img width="1281" height="720" alt="image" src="https://github.com/user-attachments/assets/a51f88e3-74dd-4bac-a098-9c1b67f5b4f7" />
+
+  Enter all relevant fields as required
+  Click the Register button.
 
 
 
@@ -131,25 +138,38 @@ ADMIN PAGES
     When logged in to the Admin side yo will be directed to the Dashboard where you are capable of Seeing quick action buttons i.e view benefits or review employee requests etc together with some other analytics and metrics
 
 
-    Moving on to the Benefits page, The Admin is able to create and view all the benefits offered within the organization.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2fc18504-8fff-4c24-81b7-5a018aa81a09" />
 
-    To Create a new benefit the admin can click the Create Benefit button on the top right to open the creation modal where they will input all the required info
 
-    The admin can then proceed to the Requests Page to view and review all the employee Requests if any exist
- 
+  Moving on to the Benefits page, The Admin is able to create and view all the benefits offered within the organization.
+  <img width="1281" height="720" alt="image" src="https://github.com/user-attachments/assets/4e27a983-4616-4514-b7be-3edd38a8df43" />
+
+  To Create a new benefit the admin can click the Create Benefit button on the top right to open the creation modal where they will input all the required info
+<img width="1286" height="720" alt="image" src="https://github.com/user-attachments/assets/bf41c151-52a6-4c77-b9d8-c740e92818ed" />
+
+  The admin can then proceed to the Requests Page to view and review all the employee Requests if any exist
+   <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/21bf2b2d-9ead-41b9-81d7-e64d40c585ce" />
 
 EMPLOYEE PAGES
 
-When logged in as an Employee You are directed to the Dashboard where you see specific metrics related to the specific employee. Here the Employee has quick actions and some metrics and analytics
 
+When logged in as an Employee You are directed to the Dashboard where you see specific metrics related to the specific employee. Here the Employee has quick actions and some metrics and analytics
+<img width="1281" height="720" alt="image" src="https://github.com/user-attachments/assets/feaedbd4-470c-42a8-861f-1502678e23bc" />
 
 When the employee navigates to the my benefits page, they see all the benefits that they are eligible for according to set criteria based on ranks
 
+<img width="1281" height="720" alt="image" src="https://github.com/user-attachments/assets/dbd9ce9b-7b1d-4208-9c88-e8c53300efbe" />
 
 To now request a benefit the employee presses the request benefit Button which submits their request to the admin for review.
+<img width="475" height="348" alt="image" src="https://github.com/user-attachments/assets/46e950e9-91db-41d3-84d8-6b160ed42522" />
+
 
 
 Upon request the Employee is notified that their request has been successfull 
+<img width="1595" height="178" alt="image" src="https://github.com/user-attachments/assets/15904cf0-03df-43fc-8976-aa47359e8aeb" />
+
+
+
 
 
 
