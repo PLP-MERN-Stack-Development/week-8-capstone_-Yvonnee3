@@ -113,9 +113,46 @@ The app will be available at [http://localhost:5173](http://localhost:5173) (or 
 
 ## Usage
 
-- Register or log in as an employee or admin.
-- Employees can view/apply for benefits, upload documents, and track requests.
-- Admins can manage benefits, review and approve/reject requests, and view analytics.
+USER GUIDE
+
+Creating a User Account
+
+    1.	Navigate to the Registration Page:
+
+        o	Go to the /register URL
+
+    2.	Fill in the Registration Form:
+        o	Enter all relevant fields as required
+        o	Click the Register button.
+
+
+
+ADMIN PAGES
+    When logged in to the Admin side yo will be directed to the Dashboard where you are capable of Seeing quick action buttons i.e view benefits or review employee requests etc together with some other analytics and metrics
+
+
+    Moving on to the Benefits page, The Admin is able to create and view all the benefits offered within the organization.
+
+    To Create a new benefit the admin can click the Create Benefit button on the top right to open the creation modal where they will input all the required info
+
+    The admin can then proceed to the Requests Page to view and review all the employee Requests if any exist
+ 
+
+EMPLOYEE PAGES
+
+When logged in as an Employee You are directed to the Dashboard where you see specific metrics related to the specific employee. Here the Employee has quick actions and some metrics and analytics
+
+
+When the employee navigates to the my benefits page, they see all the benefits that they are eligible for according to set criteria based on ranks
+
+
+To now request a benefit the employee presses the request benefit Button which submits their request to the admin for review.
+
+
+Upon request the Employee is notified that their request has been successfull 
+
+
+
 
 ---
 

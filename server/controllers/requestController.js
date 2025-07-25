@@ -72,7 +72,7 @@ exports.getAllRequests = async (req, res) => {
   await handleRequest(req, res, async () => {
     const requests = await Request.find({})
       .populate({
-        path: 'user',
+        path: 'User',
         select: 'firstName lastName email rank role',
         model: 'User'
       })
@@ -103,7 +103,7 @@ exports.getUserRequests = async (req, res) => {
     .populate({
       path: 'user',
       select: 'firstName lastName email rank',
-      model: 'User'
+      model: 'user'
     })
     .populate('reviewerComments.reviewedBy', 'firstName lastName');
 
