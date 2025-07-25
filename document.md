@@ -36,7 +36,7 @@ A full-stack web application for managing employee benefits and requests, featur
 
 ```
 .
-├── backend/         # Express API server
+├── server/         # Express API server
 │   ├── controllers/ # Route controllers
 │   ├── models/      # Mongoose models
 │   ├── routes/      # API route definitions
@@ -44,7 +44,7 @@ A full-stack web application for managing employee benefits and requests, featur
 │   ├── utils/       # Utility functions
 │   ├── config/      # DB and app config
 │   └── server.js    # Entry point
-├── frontend/        # React + Vite client
+├── client/        # React + Vite client
 │   ├── src/         # Source code
 │   ├── public/      # Static assets
 │   ├── index.html   # Main HTML file
