@@ -5,7 +5,9 @@ require('dotenv').config();
 
 const app =  express();
 // const dbURI = process.env.dbURI
-const dbURI = 'mongodb+srv://murithikevin54:q5YThho4Pv6piIcn@cluster0.9dqph.mongodb.net/benefits'
+// const dbURI = 'mongodb+srv://murithikevin54:q5YThho4Pv6piIcn@cluster0.9dqph.mongodb.net/benefits'
+const dbURI = 'mongodb+srv://yvonnemueni42:i0MvtsNC1fLPrFpO@cluster0.0dqbikh.mongodb.net/benefits'
+
 async function connectDB() {
     try{
         await mongoose.connect(dbURI);
